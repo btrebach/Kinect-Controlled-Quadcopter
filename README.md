@@ -1,6 +1,5 @@
-Kinect Controlled Quadcopter Code
-
-======
+Kinect Controlled Quadcopter
+========
 
 Here we have:
 - Arduino sketch used for transmitting data over XBee module
